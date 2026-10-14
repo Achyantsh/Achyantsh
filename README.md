@@ -61,7 +61,20 @@ I enjoy solving algorithmic problems and turning ideas into working products —
 
 ## 📈 GitHub Activity
 
-[![Achyant's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Achyantsh&theme=github-compact&hide_border=true&area=true)](https://github.com/Achyantsh)
+<p align="center">
+  <a href="https://github.com/Achyantsh">
+    <img src="https://github.com/Achyantsh.png" width="100" alt="Achyant Shrivastava's GitHub avatar" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Achyantsh?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My-Repositories-181717?style=for-the-badge&logo=github" alt="View my repositories" />
+  </a>
+  <a href="https://github.com/Achyantsh?tab=overview&from=2026-01-01&to=2026-12-31">
+    <img src="https://img.shields.io/badge/Explore-Contributions-238636?style=for-the-badge&logo=github" alt="Explore contributions" />
+  </a>
+</p>
 
 ---
 
